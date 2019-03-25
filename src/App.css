@@ -1,0 +1,7 @@
+.tasksListStyle,.listStyle{
+    display: flex;
+    justify-content: center;
+}
+.listStyle>*{
+    margin:0 50px;
+}
